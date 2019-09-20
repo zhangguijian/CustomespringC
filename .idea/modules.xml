@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka.iml" filepath="$PROJECT_DIR$/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sysemadmin/organization/organization.iml" filepath="$PROJECT_DIR$/sysemadmin/organization/organization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sysemadmin/sysemadmin.iml" filepath="$PROJECT_DIR$/sysemadmin/sysemadmin.iml" />
+    </modules>
+  </component>
+</project>
